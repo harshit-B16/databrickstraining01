@@ -46,4 +46,9 @@
 
 # COMMAND ----------
 
+# MAGIC %sql
+# MAGIC select * from Databricksspace01.bronze.autoloader where Name = "Rony"
+
+# COMMAND ----------
+
 
